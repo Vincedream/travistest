@@ -1,6 +1,6 @@
 {
   "name": "citest",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "An Travis-CI & Coveralls auto-test demo",
   "main": "sum.js",
   "scripts": {
